@@ -1,5 +1,5 @@
 *{
-    font-family: Arial;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 body{
@@ -10,7 +10,7 @@ body{
     /* Cabeçalho */
 
 .cabeçalho{
-    border-bottom: 3px solid #32b9cd;
+    border-bottom: 3px solid #3B89FE;
 }
 
 .container{
@@ -25,7 +25,7 @@ body{
 
 .cabeçalho ul{
     font-weight: 1000;
-    color: #32b9cd;
+    color: #3B89FE;
 }
 
 ul{
@@ -38,7 +38,7 @@ a{
 }
 
 .titulo{
-    color: #32b9cd;
+    color: #3B89FE;
     width: fit-content;
     font-weight: 500;
 }
@@ -58,7 +58,7 @@ a{
     background-image: url(public/assets/img/bg-jelly-fish-para_outras_pags.png);
     background-size: center center;
     height: 500px;
-    color: #fff;
+    color: black;
     display: flex;
 }
 
@@ -109,7 +109,7 @@ a{
     background: rgb(235, 233, 233);
     width: 400px;
     height: 450px;
-    color: rgb(223, 115, 151);
+    color: black;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -129,7 +129,7 @@ a{
 
 .formulario button{
     margin-top: 10px;
-    background-color: #e30825;
+    background-color: #3B89FE;
     color: #fff;
     padding: 10px 15px;
     border: none;
@@ -143,7 +143,7 @@ a{
 .formulario input{
     padding: 10px 15px;
     text-align: center;
-    border: 2px solid rgb(118, 191, 255);
+    border: 2px solid #3B89FE;
     border-radius: 10px;
 }
 
